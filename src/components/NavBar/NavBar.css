@@ -1,0 +1,35 @@
+.nav-container {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 2px 4px -1px white;
+}
+
+.logo {
+    margin-top: 15px;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+
+.title {
+    margin-bottom: 15px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+
+
+
+li {
+    width: 35px;
+}
